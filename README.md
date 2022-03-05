@@ -32,7 +32,7 @@
         <input type="file" name="" value="">
         <br>
         <br>
-        <input type="range" name="" value="">
+        
         <br>
         <br>
 
